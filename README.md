@@ -2,7 +2,9 @@
 
 How far away is the horizon?
 
+## Data
 
+The radius of the Earth is ~ 6000 km.
 
 ## License
 
